@@ -1,0 +1,71 @@
+<!--
+.logo{
+ position: absolute;
+ left: 40%;
+ bottom: 70%;
+}
+
+.wrapper {
+    position: relative;
+    top: 230px;
+    left: 450px;
+    display: flex;
+    min-width: 100px;
+  }
+  
+  .search {
+   
+    border: 1px solid rgb(155, 155, 155);
+    border-radius: 50px;
+    height: 30px;
+    width: 35%;
+    padding: 10px 23px 2px 30px;
+    outline: 0;
+    
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 15px;
+    left: 13px;
+    width: 14px;
+  }
+  
+  .clear-icon {
+    position: absolute;
+    top: 9px;
+    right: 8px;
+    width: 12px;
+    cursor: pointer;
+    visibility: hidden;
+  }
+  
+  .search:hover, .search:focus {
+    
+  }
+
+  .google-search{
+      position: absolute;
+      left: 600px;
+      bottom: 370px;
+      height: 30px;
+    width: 140px;
+    cursor: pointer;
+  }
+  #ifl{
+    position: absolute;
+    left: 750px;
+    bottom: 370px;
+    height: 30px;
+    width: 140px;
+    cursor: pointer;
+  }
+  h2{
+      background-color: rgba(243, 237, 237, 0.966);
+      position: relative;
+      top: 600px;
+      font-size: 15px;
+      font-family: sans-serif;
+      font-weight: lighter;
+      height: 35px;
+  }
